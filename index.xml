@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Huiker&#39;s blog</title>
+        <link>https://touring-686.github.io/</link>
+        <description>Huiker&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 18 Sep 2022 23:40:58 &#43;0800</lastBuildDate>
+            <atom:link href="https://touring-686.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>first_post</title>
+    <link>https://touring-686.github.io/first_post/</link>
+    <pubDate>Sun, 18 Sep 2022 23:40:58 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://touring-686.github.io/first_post/</guid>
+    <description><![CDATA[自我介绍 Hello，我是huiker 个人爱好: 艺术,篮球,技术 兴趣方向: system方向吧 (单纯喜欢，找虐) 规划: 打基础，考研 TODO 多codin]]></description>
+</item>
+</channel>
+</rss>
